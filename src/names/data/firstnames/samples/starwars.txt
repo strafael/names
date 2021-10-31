@@ -1,0 +1,27 @@
+# Planetas
+Alderaan
+Bakura
+Batuu
+Bespin
+Borleias
+Byss
+Calamari
+Corellia
+Coruscant
+Dagobah
+Dantooine
+Dathomir
+Devaron
+Endor
+Hoth
+Jakku
+Kamino
+Kashyyyk
+Kessel
+Korriban
+Mustafar
+Naboo
+Noquivzor
+Ryloth
+Tatooine
+Yavin

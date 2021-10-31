@@ -1,0 +1,143 @@
+# Targaryen
+Viserys
+Daenerys
+Aegon
+Aemon
+Rhaegar
+Rhaella
+Aerys
+
+# Baratheon
+Robert
+Stannis
+Renly
+Joffrey
+Myrcella
+Tommen
+Shireen
+
+# Lannisters
+Tywin
+Cersei
+Jaime
+Tyrion
+Kevan
+Lancel
+
+# Stark
+Eddard
+Catelyn
+Robb
+Jon
+Sansa
+Arya
+Bran
+Rickon
+Lyanna
+
+# Martell
+Doran
+Arianne
+Quentyn
+Trystane
+Oberyn
+
+# Sand Snakes
+
+Obara
+Nymeria
+Tyene
+Sarella
+Elia
+Obella
+Dorea
+Loreza
+
+# Tully
+Hoster
+Brynden
+Edmure
+Catelyn
+Lysa
+
+# Greyjoy
+Balon
+Aeron
+Euron
+Asha
+Theon
+Yara
+
+# Arryn
+Jon
+Robert
+
+# Tyrell
+Mace
+Willas
+Margaery
+Loras
+Olenna
+
+# Bolton
+Roose
+Ramsay
+
+# Clegane
+Gregor
+Sandor
+
+# The Night’s watch
+Lord
+Mormont
+Jon
+Samwell
+Benjen
+Bowen
+Donal
+Eddison
+Maester
+Aemon
+Qhorin
+Yoren
+
+# Other
+Baelish
+Varys
+Brienne
+Khal
+
+# Daenerys Dragons
+Drogon
+Rhaegal
+Viserion
+
+# Aegon's Dragons
+Balerion
+Meraxes
+Vhagar
+
+# Other Dragons
+Archonei
+Arrax
+Caraxes
+Dreamfyre
+Essovius
+Ghiscar
+Meleys
+Moondancer
+Morghul
+Seasmoke
+Sheepstealer
+Shrykos
+Silverwing
+Stormcloud
+Sunfyre
+Syrax
+Tessarion
+Tyaxes
+Valryon
+Vermac
+Vermithor
+Vermithrax
+Urrax

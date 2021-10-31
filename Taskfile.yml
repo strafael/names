@@ -1,0 +1,12 @@
+version: '3'
+
+tasks:
+  deploy:
+    desc: Efetua git pull e cria tag com a versão atual do projeto
+    vars:
+      VERSION:
+        sh: python setup.py --version
+    cmds:
+      - git pull
+      - git tag -a {{.VERSION}} -m "Version {{.VERSION}}"
+      - git push origin "{{.VERSION}}"
